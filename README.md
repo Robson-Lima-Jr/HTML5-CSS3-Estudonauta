@@ -11,6 +11,9 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] **Capítulo 02:** _Aula 02_ - Domínio e Hospedagem
 -----------------------------------------------------------
 - [x] **Capítulo 03:** _Aula 01_ - Como a funciona HTML e CSS
+- [x] **Capítulo 03:** _Aula 02_ - Back-End e Front-End
+-----------------------------------------------------------
+- [x] **Capítulo 04:** _Aula 01_ - Instalando ferramentas
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
