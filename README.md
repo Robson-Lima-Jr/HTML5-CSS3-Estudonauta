@@ -24,11 +24,12 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
    * _Aula 01_ - Parágrafos e quebras de linha (**com Exercicios**)
    * _Aula 02_ - Símbolos e Emojis (**com Exercicios**)
 
-- [ ] **Capítulo 06:**
+- [x] **Capítulo 06:**
    * _Aula 01_ - Direitos Autorais
    * _Aula 02_ - Formatos de Imagens
    * _Aula 03_ - Tamanhos de Imagens
    * _Aula 04_ - Imagens em HTML5
+   * _Aula 05_ - Icones e Favoritos
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
