@@ -31,6 +31,9 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
    * _Aula 04_ - Imagens em HTML5
    * _Aula 05_ - Icones e Favoritos
 
+- [x] **Capítulo 07:**
+   * _Aula 01_ - Hierarquia de Títulos
+
 **Módulo 01** _Iniciado_ em 16/02/2023
 
 [Site do Estudonauta](https://www.estudonauta.com/)
