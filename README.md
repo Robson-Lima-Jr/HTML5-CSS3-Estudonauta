@@ -34,6 +34,9 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] **Capítulo 07:**
    * _Aula 01_ - Hierarquia de Títulos
 
+- [x] **Capítulo 08:**
+   * _Aula 01_ - Semântica em HTML5
+
 **Módulo 01** _Iniciado_ em 16/02/2023
 
 [Site do Estudonauta](https://www.estudonauta.com/)
