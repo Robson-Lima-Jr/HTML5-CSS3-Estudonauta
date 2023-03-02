@@ -6,6 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cap08 Aula02: Teste Negrito / Itálico</title>
+    <style>
+        .mark1 {
+            background-color: coral;
+        }
+    </style>
 </head>
 
 <body>
@@ -15,11 +20,18 @@
     <h2>Negrito:</h2>
     <p>O texto dessa linha foi configurado usando <b>a tag B</b> do HTML <b>(Não Semantico)</b></p>
     <p>Agora o texto dessa linha foi configurado usando <strong>a tag STRONG</strong> do HTML
-        <strong>(Semantico)</strong></p>
+        <strong>(Semantico)</strong>
+    </p>
 
     <h2>Itálico:</h2>
     <p>O texto dessa linha foi configurado usando <i>a tag I</i> do HTML <i>(Não Semantico)</i></p>
     <P>Agora o texto dessa linha foi configurado usando <em>a tag EM</em> do HTML <em>(Semantico)</em></P>
+
+    <h2>Texto Marcado:</h2>
+    <p>O texto dessa linha foi configurado usando <mark style="background-color: aqua;">a tag MARK</mark> do HTML <mark
+            style="background-color: aqua;">(cor do texto mudado, usando o background-color dentro da tag)</mark></p>
+    <p>Agora o texto dessa linha também foi configurado usando <mark class="mark1">a tag MARK</mark> do HTML <mark
+            class="mark1">(cor do texto mudado usando o CSS, dentro do proprio documento HTML)</mark></p>
 
 </body>
 
