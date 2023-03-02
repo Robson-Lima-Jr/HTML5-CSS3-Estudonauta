@@ -37,6 +37,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [ ] **Capítulo 08:**
    * _Aula 01_ - Semântica em HTML5
    * _Aula 02_ - Negrito e Itálico (**com Exercicios**)
+   * _Aula 03_ - Formatações Importantes (**com Exercicios**)
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
