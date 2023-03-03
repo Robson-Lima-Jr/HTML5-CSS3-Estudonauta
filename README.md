@@ -40,8 +40,9 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
    * _Aula 03_ - Formatações Importantes (**com Exercicios**)
    * _Aula 04_ - Códigos e Citações (**com Exercicios**)
 
-- [ ] **Capítulo 09:**
+- [x] **Capítulo 09:**
    * _Aula 01_ - Listas OL e UL (**com Exercicios**)
+   * _Aula 02_ - Listas mistas e de definição (**com Exercicios**)
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
