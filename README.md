@@ -52,6 +52,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [ ] **Capítulo 11:**
    * _Aula 01_ - Imagens Dinâmicas
+   * _Aula 02_ - Elemento Picture   
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
