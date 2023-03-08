@@ -44,10 +44,11 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
    * _Aula 01_ - Listas OL e UL (**com Exercicios**)
    * _Aula 02_ - Listas mistas e de definição (**com Exercicios**)
 
-- [ ] **Capítulo 10:**
+- [x] **Capítulo 10:**
    * _Aula 01_ - Links (**com Exercicios**)
    * _Aula 02_ - Links Internos (**com Exercicios**)  
    * _Aula 03_ - Links Para Download (**com Exercicios**)  
+   * _Aula 03_ - Desafios do Capitulo 10 (**Desafios** serão adicionados no gitHub ao fim do módulo)  
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
