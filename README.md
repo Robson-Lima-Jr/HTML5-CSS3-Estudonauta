@@ -47,6 +47,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [ ] **Capítulo 10:**
    * _Aula 01_ - Links (**com Exercicios**)
    * _Aula 02_ - Links Internos (**com Exercicios**)  
+   * _Aula 0_ - Links Internos (**com Exercicios**)  
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
