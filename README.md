@@ -67,6 +67,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 01_ - Imagens Dinâmicas
 - [x] _Aula 02_ - Elemento Picture (**com Exercicios**)
 - [x] _Aula 03_ - Elemento Aúdio (**com Exercicios**)
+- [x] _Aula 04_ - Elemento Vídeo
 
 </details>
 
