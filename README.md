@@ -70,6 +70,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 04_ - Elemento Vídeo
 - [x] _Aula 05_ - Vídeos de Hospedagem Local (**com Exercicios**)
 - [x] _Aula 06_ - Vídeos de Hospedagem Externa (**com Exercicios**)
+- [x] _Aula 07_ - Desafio do Capítulo 11 (**Desafios** serão adicionados no gitHub ao fim do módulo)
 
 </details>
 
