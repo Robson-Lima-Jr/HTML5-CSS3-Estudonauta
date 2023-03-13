@@ -86,6 +86,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 <summary><h2>Desafios</h2></summary>
 
+### Módulo 01:
+
+- [x] _Desafio 01_ -  Desafio das Mensagens
+
 </details>
 
 [Site do Estudonauta](https://www.estudonauta.com/)
