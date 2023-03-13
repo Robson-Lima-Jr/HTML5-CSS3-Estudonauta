@@ -76,6 +76,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Aula 01_ -  Estilos CSS inline (**com Exercicios**)
 - [x] _Aula 02_ -  Estilos CSS Internos (**com Exercicios**)
+- [x] _Aula 03_ -  Estilos CSS Externos (**com Exercicios**)
 
 </details>
 
