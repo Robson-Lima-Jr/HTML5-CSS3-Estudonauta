@@ -82,6 +82,12 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 **Módulo 01** _Iniciado_ em 16/02/2023
 
+<details>
+
+<summary><h2>Desafios</h2></summary>
+
+</details>
+
 [Site do Estudonauta](https://www.estudonauta.com/)
 
 [Site do Curso Em Video](https://www.cursoemvideo.com/)
