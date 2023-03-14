@@ -92,6 +92,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Desafio 02_ -  Desafio das Imagens
 - [x] _Desafio 03_ -  Desafio do Mapa
 - [x] _Desafio 04_ -  Desafio dos Emojis
+- [x] _Desafio 05_ -  Desafio do Perfil
 
 </details>
 
