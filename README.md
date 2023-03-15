@@ -89,6 +89,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 13
 
 - [x] _Aula 01_ - Psicologia das Cores
+- [x] _Aula 02_ - Representando Cores (**com Exercicios**)
 
 
 </details>
