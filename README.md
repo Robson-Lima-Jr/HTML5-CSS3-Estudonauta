@@ -84,6 +84,19 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 <details>
 
+<summary><h2>Módulo 02: Deixando as Coisas Mais Bonitas</h2></summary>
+
+### Capítulo 13
+
+- [x] _Aula 01_ - Psicologia das Cores
+
+
+</details>
+
+**Módulo 02:** _Iniciado_ em 15/03/2023
+
+<details>
+
 <summary><h2>Desafios</h2></summary>
 
 ### Módulo 01:
