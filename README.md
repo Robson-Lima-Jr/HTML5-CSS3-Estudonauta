@@ -92,6 +92,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Representando Cores (**com Exercicios**)
 - [x] _Aula 03_ - Harmonia de Cores
 - [x] _Aula 04_ - Paleta de cores na prática
+- [x] _Aula 05_ - Captura de cores em sites
 
 </details>
 
