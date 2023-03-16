@@ -3,3 +3,18 @@
 * {
     font-family: monospace;
 }
+
+body {
+    background-image: linear-gradient(to top, #103778, #0593A2);
+}
+
+main {
+    background-color: white;
+    width: 550px;
+    padding: 5px;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
