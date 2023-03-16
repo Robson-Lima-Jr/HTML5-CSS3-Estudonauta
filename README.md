@@ -94,6 +94,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 04_ - Paleta de cores na prática
 - [x] _Aula 05_ - Captura de cores em sites
 - [x] _Aula 06_ - Criando Degradê em CSS (**com Exercicios**)
+- [x] _Aula 07_ - Criando um site harmônico (**com Exercicios**)
 
 </details>
 
