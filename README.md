@@ -96,6 +96,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 06_ - Criando Degradê em CSS (**com Exercicios**)
 - [x] _Aula 07_ - Criando um site harmônico (**com Exercicios**)
 
+### Capítulo 14
+
+- [x] _Aula 01_ - Tipografia (parte 1)
+
 </details>
 
 **Módulo 02:** _Iniciado_ em 15/03/2023
