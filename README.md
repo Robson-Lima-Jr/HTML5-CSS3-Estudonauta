@@ -100,6 +100,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Aula 01_ - Tipografia (parte 1)
 - [x] _Aula 02_ - Tipografia (parte 2)
+- [x] _Aula 03_ - Familias de fonte
 
 </details>
 
