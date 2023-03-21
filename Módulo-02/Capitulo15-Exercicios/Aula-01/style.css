@@ -1,1 +1,25 @@
 @charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to left, rgb(190, 190, 241), rgb(127, 127, 168));
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(28, 2, 53);
+}
+
+#mainTitle {
+    background-color: rgb(28, 2, 53);
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(74, 2, 141);
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
