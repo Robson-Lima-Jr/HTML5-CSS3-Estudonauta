@@ -6,10 +6,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cap14 Aula07 - Fontes Externas</title>
+    <style>
+        @font-face {
+            font-family: egypt;
+            src: url(fonts/EgyptianNights.ttf) format("truetype") , url(fonts/EgyptianNights.otf) format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        h1 {
+            font-family: "egypt", sans-serif;
+            font-weight: normal;
+            font-size: 3em;
+            color: rgb(131, 11, 243);
+        }
+    </style>
 </head>
 
 <body>
-
+    <h1>Titulo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem culpa enim amet iste facere, eum id,
+        autem nulla officia molestiae ipsam explicabo rerum hic ipsum cupiditate possimus reprehenderit eos commodi!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati officiis repellat dolores optio, debitis
+        perferendis suscipit animi ut maxime natus architecto, nesciunt voluptatibus temporibus qui necessitatibus illo,
+        dolor eum itaque.</p>
 </body>
 
 </html>
