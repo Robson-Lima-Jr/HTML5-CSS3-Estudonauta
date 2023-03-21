@@ -105,6 +105,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 05_ - Peso, estilo e shorhand (**com Exercicios**)
 - [x] _Aula 06_ - Google Fonts (**com Exercicios**)
 - [x] _Aula 07_ - Fontes Externas (**com Exercicios**)
+- [x] _Aula 08_ - Fonts Ninja
 
 </details>
 
