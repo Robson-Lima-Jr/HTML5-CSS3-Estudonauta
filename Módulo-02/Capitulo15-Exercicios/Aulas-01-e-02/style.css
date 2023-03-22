@@ -15,11 +15,20 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: rgb(74, 2, 141);
-}
-
 p {
     text-align: justify;
     text-indent: 50px;
+}
+
+.basic {
+    color: rgb(74, 2, 141);
+}
+
+.medium {
+    color: rgb(2, 11, 141);
+}
+
+.advanced {
+    color: rgb(141, 2, 2);
+    background-color:rgba(74, 2, 141, 0.137);
 }
