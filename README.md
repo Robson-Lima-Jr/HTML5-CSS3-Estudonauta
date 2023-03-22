@@ -112,6 +112,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 15
 
 - [x] _Aula 01_ - CSS id (**com Exercicios**)
+- [x] _Aula 02_ - CSS class (**com Exercicios**)
 
 
 </details>
