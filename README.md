@@ -115,6 +115,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - CSS class (**com Exercicios**)
 - [x] _Aula 03_ - CSS pseudo-class (**com Exercicios**)
 - [x] _Aula 04_ - CSS pseudo-element (**com Exercicios**)
+  
+### Capítulo 16
+
+- [x] _Aula 01_ - Modelo de Caixas: primeiros passos
 
 
 </details>
