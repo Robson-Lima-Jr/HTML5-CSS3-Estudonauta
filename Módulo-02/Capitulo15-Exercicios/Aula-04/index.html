@@ -11,15 +11,46 @@
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
 
+        a {
+            color: rgb(84, 131, 84);
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: brown;
+        }
+
+        a:hover {
+            font-weight: bolder;
+            color: rgb(3, 77, 3);
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: rgb(44, 6, 80);
+        }
+
+        a::before {
+            content: "✸ ";
+            color: black;
+        }
+
+        a::after {
+            content: " ✸";
+            color: black;
+        }
     </style>
 </head>
 
 <body>
     <h1>Links Personalizados</h1>
     <ul>
-        <li><a href="https://github.com/Robson-Lima-Jr" target="_blank" rel="external">Meu GitHub</a></li>
-        <li><a href="https://www.linkedin.com/in/robson-lima-junior-928538256/" target="_blank" rel="external">Meu Linkedin</a></li>
-        <li><a href="https://www.estudonauta.com/" target="_blank" rel="external">Site do Estudonauta</a></li>
+        <li><a href="https://github.com/Robson-Lima-Jr" target="_blank" rel="external" id="github">Meu GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/robson-lima-junior-928538256/" target="_blank" rel="external"
+                id="linkedin">Meu
+                Linkedin</a></li>
+        <li><a href="https://www.estudonauta.com/" target="_blank" rel="external" id="estudonauta">Site do
+                Estudonauta</a></li>
     </ul>
 </body>
 
