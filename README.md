@@ -123,6 +123,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 03_ - Shorthands Úteis
 - [x] _Aula 04_ - Grouping Tags Semânticas (**com Exercicios**)
 - [x] _Aula 05_ - Sombra nas Caixas (**com Exercicios**)
+- [x] _Aula 06_ - Vértices Arredondados (**com Exercicios**)
 
 
 </details>
