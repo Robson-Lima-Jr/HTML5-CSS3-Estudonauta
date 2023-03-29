@@ -130,6 +130,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Aula 01_ - Criando um projeto do Zero
 - [x] _Aula 02_ - Como vai ficar o projeto pronto
+- [x] _Aula 03_ - Wireframe, paleta e tipografia
 
 
 </details>
