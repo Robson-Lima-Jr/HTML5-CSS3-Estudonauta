@@ -5,6 +5,11 @@
     src: url(../fonts/idroid.otf) format("opentype");
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
 body {
     background-color: #7DD5A9;
 }
+
+/*font-family: 'Bebas Neue', cursive;*/

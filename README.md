@@ -60,7 +60,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 01_ - Links (**com Exercicios**)
 - [x] _Aula 02_ - Links Internos (**com Exercicios**)  
 - [x] _Aula 03_ - Links Para Download (**com Exercicios**)  
-- [x] _Aula 04_ - Desafios do Capitulo 10 (**Desafios** serão adicionados no gitHub ao fim do módulo)  
+- [x] _Aula 04_ - Desafios do Capitulo 10 (**Desafios**)  
 
 ### Capítulo 11
 
@@ -70,7 +70,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 04_ - Elemento Vídeo
 - [x] _Aula 05_ - Vídeos de Hospedagem Local (**com Exercicios**)
 - [x] _Aula 06_ - Vídeos de Hospedagem Externa (**com Exercicios**)
-- [x] _Aula 07_ - Desafio do Capítulo 11 (**Desafios** serão adicionados no gitHub ao fim do módulo)
+- [x] _Aula 07_ - Desafio do Capítulo 11 (**Desafios**)
 
 ### Capítulo 12
 
@@ -131,6 +131,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 01_ - Criando um projeto do Zero
 - [x] _Aula 02_ - Como vai ficar o projeto pronto
 - [x] _Aula 03_ - Wireframe, paleta e tipografia
+- [x] _Aula 04_ - Aplicando o Wireframe (**Desafio 10**)
 
 
 </details>
@@ -152,6 +153,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Desafio 07_ -  Desafio das Imagens Flexíveis
 - [x] _Desafio 08_ -  Desafio da Navegação
 - [x] _Desafio 09_ -  Desafio de Videos
+
+### Módulo 02:
+
+- [ ] _Desafio 10_ -  Desafio do Site Android
 
 </details>
 
