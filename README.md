@@ -132,6 +132,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Como vai ficar o projeto pronto
 - [x] _Aula 03_ - Wireframe, paleta e tipografia
 - [x] _Aula 04_ - Aplicando o Wireframe (**Desafio 10**)
+- [x] _Aula 05_ - Organizando o Conteúdo (**Desafio 10**)
 
 
 </details>
