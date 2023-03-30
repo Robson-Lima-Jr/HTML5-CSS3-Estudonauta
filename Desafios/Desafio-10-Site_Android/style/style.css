@@ -15,7 +15,7 @@
     --cor1: #3CCD84;
     --cor2: #2C9963;
     --cor3: #195e3a;
-    --cor4: #243f31;
+    --cor4: #123623;
 
     --fonte-base: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     --fonte-hs: "android", sans-serif;
@@ -91,12 +91,22 @@ main {
 
 main h1 {
     font-family: var(--fonte-hs);
-    color: var(--cor3);
+    color: var(--cor4);
+    font-size: 1.6em;
 }
 
 main h2 {
     font-family: var(--fonte-hs);
     color: var(--cor3);
+    font-size: 1.4em;
+    background-image: linear-gradient(to right, var(--cor0), transparent);
+    text-indent: 10px;
+}
+
+main p {
+    padding: 15px 0px;
+    line-height: 2em;
+    text-indent: 30px;
 }
 
 main img {
@@ -104,9 +114,26 @@ main img {
 }
 
 main img.pequena {
-    width: 50%;
+    width: 350px;
     display: block;
     margin: auto;
+}
+
+main strong {
+    color: var(--cor3);
+}
+
+main a {
+    background-color: var(--cor0);
+    text-decoration: none;
+    color: var(--cor4);
+    padding: 0px 5px;
+}
+
+main a:hover {
+    background-color: #3CCD84;
+    font-weight: bold;
+    text-decoration: underline
 }
 
 footer {
