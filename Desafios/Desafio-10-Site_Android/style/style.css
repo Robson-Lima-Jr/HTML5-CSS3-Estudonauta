@@ -28,7 +28,7 @@
 }
 
 body {
-    background-color: #7DD5A9;
+    background-color:var(--cor0);
     font-family: var(--fonte-base);
 }
 
@@ -52,6 +52,10 @@ nav {
 
 main {
     background-color: white;
+    padding: 20px;
+    margin: auto;
+    min-width: 300px;
+    max-width: 1000px;
 }
 
 main h1 {
@@ -62,6 +66,10 @@ main h1 {
 main h2 {
     font-family: var(--fonte-hs);
     color: var(--cor3);
+}
+
+main img {
+    width: 100%;
 }
 
 footer {
