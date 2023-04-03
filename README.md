@@ -143,7 +143,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 </details>
 
-**Módulo 02:** _Iniciado_ em 15/03/2023
+**Módulo 02:** _Iniciado_ em 15/03/2023 / _Concluído_ em 03/04/2023 :ballot_box_with_check:
 
 <details>
 
