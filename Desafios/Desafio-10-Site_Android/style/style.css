@@ -136,6 +136,22 @@ main a:hover {
     text-decoration: underline
 }
 
+.video {
+    position: relative;
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 56.9%;
+
+}
+
+.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
 aside {
     background-color: var(--cor0);
     padding: 10px;

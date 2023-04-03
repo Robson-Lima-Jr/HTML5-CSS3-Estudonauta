@@ -138,6 +138,8 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 08_ - Tornando um site responsivo (**Desafio 10**)
 - [x] _Aula 09_ - Personalizando o topo (**Desafio 10**)
 - [x] _Aula 10_ - Estilizando o Conteúdo (**Desafio 10**)
+- [x] _Aula 11_ - Rodapé e Aside (**Desafio 10**)
+- [x] _Aula 12_ - Vídeo Adaptável (**Desafio 10**)
 
 </details>
 
@@ -161,7 +163,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 ### Módulo 02:
 
-- [ ] _Desafio 10_ -  Desafio do Site Android
+- [x] _Desafio 10_ -  Desafio do Site Android
 
 </details>
 
