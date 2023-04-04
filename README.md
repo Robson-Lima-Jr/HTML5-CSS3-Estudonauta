@@ -146,13 +146,14 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 **Módulo 02:** _Iniciado_ em 15/03/2023 / _Concluído_ em 03/04/2023 :ballot_box_with_check:
 
 <details>
+
 <summary><h2>Módulo 03: Colocando um Protótipo no Ar</h2></summary>
 
 ### Capítulo 18
 
 - [x] _Aula 01_ - O que é Git e GitHub?
 
-</detaisl>
+</details>
 
 **Módulo 03:** _Iniciado_ em 04/04/2023
 
