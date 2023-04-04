@@ -159,6 +159,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 06_ - GitHub Pages
 - [x] _Aula 07_ - Manutenção em sites no GitHub
 - [x] _Aula 08_ - GitHub Social
+- [x] _Aula 09_ - Clonando Repositórios
 
 </details>
 
