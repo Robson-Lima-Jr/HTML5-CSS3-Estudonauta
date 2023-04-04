@@ -152,6 +152,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 18
 
 - [x] _Aula 01_ - O que é Git e GitHub?
+- [x] _Aula 02_ - Instalação do Git e GitHub
 
 </details>
 
