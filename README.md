@@ -165,6 +165,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 19
 
 - [x] _Aula 01_ - Trabalhando com imagens de fundo (**com Exercicios**)
+- [x] _Aula 02_ - Background-image (**com Exercicios**)
 
 </details>
 
