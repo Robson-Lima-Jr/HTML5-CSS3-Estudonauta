@@ -162,6 +162,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 09_ - Clonando Repositórios
 - [x] _Aula 10_ - GitHub em outro PC
 
+### Capítulo 19
+
+- [x] _Aula 01_ - Trabalhando com imagens de fundo (**com Exercicios**)
+
 </details>
 
 **Módulo 03:** _Iniciado_ em 04/04/2023
