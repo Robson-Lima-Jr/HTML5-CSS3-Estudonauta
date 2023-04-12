@@ -196,6 +196,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Desafio 10_ -  Desafio do Site Android
 
+### Módulo 03:
+
+- [x] _Desafio 11_ -  Desafio do Astronauta
+
 </details>
 
 [Site do Estudonauta](https://www.estudonauta.com/)
