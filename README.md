@@ -170,6 +170,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 04_ - Background-position (**com Exercicios**)
 - [x] _Aula 05_ - Background-size (**com Exercicios**)
 - [x] _Aula 06_ - Background-attachment e shorthand (**com Exercicios**)
+- [x] _Aula 07_ - Centralização Vertical (**com Exercicios**)
 
 </details>
 
