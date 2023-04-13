@@ -178,6 +178,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Organizando os arquivos (**Desafio 12**)
 - [x] _Aula 03_ - Ajustando o HTML (**Desafio 12**)
 - [x] _Aula 04_ - Ajustando o Estilo (**Desafio 12**)
+- [x] _Aula 05_ - Aplicando as fontes (**Desafio 12**)
 
 </details>
 
