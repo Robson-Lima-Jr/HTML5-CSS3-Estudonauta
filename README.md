@@ -172,6 +172,11 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 06_ - Background-attachment e shorthand (**com Exercicios**)
 - [x] _Aula 07_ - Centralização Vertical (**com Exercicios**)
 
+### Capítulo 20
+
+- [x] _Aula 01_ - Um projeto completo usando HTML e CSS (**Desafio 12**)
+- [x] _Aula 02_ - Organizando os arquivos (**Desafio 12**)
+
 </details>
 
 **Módulo 03:** _Iniciado_ em 04/04/2023
@@ -199,6 +204,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Módulo 03:
 
 - [x] _Desafio 11_ -  Desafio do Astronauta
+- [ ] _Desafio 12_ -  Desafio Mini Projeto Cordel
 
 </details>
 
