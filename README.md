@@ -181,6 +181,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 05_ - Aplicando as fontes (**Desafio 12**)
 - [x] _Aula 06_ - Imagens com efeito parallax (**Desafio 12**)
 - [x] _Aula 07_ - Hospedando o projeto cordel (**Desafio 12**)
+    
+### Capítulo 21
+
+- [x] _Aula 01_ - Quando usar e não usar tabelas
 
 </details>
 
