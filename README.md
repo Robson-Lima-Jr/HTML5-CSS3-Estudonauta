@@ -209,7 +209,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Módulo 03:
 
 - [x] _Desafio 11_ -  Desafio do Astronauta
-- [x] _Desafio 12_ -  Desafio Mini Projeto Cordel
+- [x] _Desafio 12_ -  Desafio Mini Projeto Cordel - [Link do Site](https://robson-lima-jr.github.io/Projeto-Cordel-Estudonauta/)
 
 </details>
 
