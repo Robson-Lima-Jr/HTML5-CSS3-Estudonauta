@@ -176,6 +176,11 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Aula 01_ - Um projeto completo usando HTML e CSS (**Desafio 12**)
 - [x] _Aula 02_ - Organizando os arquivos (**Desafio 12**)
+- [x] _Aula 03_ - Ajustando o HTML (**Desafio 12**)
+- [x] _Aula 04_ - Ajustando o Estilo (**Desafio 12**)
+- [x] _Aula 05_ - Aplicando as fontes (**Desafio 12**)
+- [x] _Aula 06_ - Imagens com efeito parallax (**Desafio 12**)
+- [x] _Aula 07_ - Hospedando o projeto cordel (**Desafio 12**)
 
 </details>
 
@@ -204,7 +209,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Módulo 03:
 
 - [x] _Desafio 11_ -  Desafio do Astronauta
-- [ ] _Desafio 12_ -  Desafio Mini Projeto Cordel
+- [x] _Desafio 12_ -  Desafio Mini Projeto Cordel
 
 </details>
 
