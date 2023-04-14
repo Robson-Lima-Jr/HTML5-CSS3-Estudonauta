@@ -185,6 +185,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 21
 
 - [x] _Aula 01_ - Quando usar e não usar tabelas
+- [x] _Aula 02_ - Primeira Tabela em HTML (**com Exercicios**)
 
 </details>
 

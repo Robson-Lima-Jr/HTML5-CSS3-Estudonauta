@@ -1,1 +1,41 @@
 @charset "UTF-8";
+
+body {
+    font-family: monospace;
+}
+
+table {
+    border: 3px solid rgb(0, 0, 85);
+    border-collapse: collapse;
+}
+
+td {
+    padding: 2px;
+    width: 70px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+td:hover {
+    background-color: darkolivegreen;
+    font-weight: bolder;
+    color: white;
+}
+
+#linha01 {
+    background-color: rgb(157, 157, 226);
+}
+
+#linha02 {
+    background-color: rgb(99, 99, 228);
+}
+
+#linha03 {
+    background-color: rgb(31, 31, 216);
+    color: white;
+}
+
+#linha04 {
+    background-color: rgb(4, 4, 161);
+    color: white;
+}
