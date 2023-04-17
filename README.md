@@ -192,6 +192,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 06_ - Efeito Zebrado (**com Exercicios**)
 - [x] _Aula 07_ - Cabeçalho fixo para tabelas grandes (**com Exercicios**)
 - [x] _Aula 08_ - Mesclagem de Células (**com Exercicios**)
+- [x] _Aula 09_ - Desafios (parte 1) (**com Exercicios**)
 
 </details>
 
