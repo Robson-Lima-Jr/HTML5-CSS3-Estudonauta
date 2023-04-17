@@ -188,6 +188,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Primeira Tabela em HTML (**com Exercicios**)
 - [x] _Aula 03_ - Alinhamento de conteúdos em tabelas (**com Exercicios**)
 - [x] _Aula 04_ - Anatomia de tabelas grandes (**com Exercicios**)
+- [x] _Aula 05_ - Caption e Escopo de títulos (**com Exercicios**)
 
 </details>
 
