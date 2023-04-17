@@ -6,7 +6,9 @@ body {
 }
 
 table {
-    border-collapse: collapse;  
+    border-collapse: collapse; 
+    width: 400px; 
+    position: relative;
 }
 
 caption {
@@ -21,6 +23,12 @@ thead , tfoot {
     color: white;
 }
 
+thead > tr > th {
+    position: sticky;
+    top: -1px;
+    background-color: rgb(150, 34, 14);
+}
+
 tbody > tr:nth-child(even) {
     background-color:  rgb(236, 129, 110);
 }
@@ -31,7 +39,6 @@ tbody > tr:nth-child(odd) {
 
 th , td {
     border: 1px solid black;
-    width: 200px;
     padding: 5px;
 }
 
