@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family: monospace;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr td {
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 2em;
+    font-weight: bold;
+}
