@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+caption {
+    background-color: cornflowerblue;
+    padding: 5px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+th , td {
+    border: 1px solid black;
+    padding: 10px;
+}
