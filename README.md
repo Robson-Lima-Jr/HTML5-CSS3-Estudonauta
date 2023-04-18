@@ -194,6 +194,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 08_ - Mesclagem de Células (**com Exercicios**)
 - [x] _Aula 09_ - Desafios (parte 1) (**com Exercicios**)
 - [x] _Aula 10_ - Exemplo de tabela completa (**com Exercicios**)
+- [x] _Aula 11_ - Escopos de grupo (**com Exercicios**)
 
 </details>
 
