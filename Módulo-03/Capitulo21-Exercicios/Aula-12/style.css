@@ -35,3 +35,8 @@ th, td {
     color: var(--cor3);
     font-size: 1.1em;
 }
+
+#eApr , #hApr{
+    background-color: var(--cor2);
+    color: white;
+}
