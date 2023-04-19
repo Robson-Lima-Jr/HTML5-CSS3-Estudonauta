@@ -197,6 +197,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 11_ - Escopos de grupo (**com Exercicios**)
 - [x] _Aula 12_ - Desafios (parte 2) (**com Exercicios**)
 - [x] _Aula 13_ - Agrupando Colunas com colgroup (**com Exercicios**)
+- [x] _Aula 14_ - Tabelas responsivas (**com Exercicios**)
 
 </details>
 
