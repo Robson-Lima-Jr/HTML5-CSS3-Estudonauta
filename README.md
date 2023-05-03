@@ -210,7 +210,8 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 22
 
 - [x] _Aula 01_ - Nosso primeiro iframe (**com Exercicios**)
-- [x] _Aula 01_ - Configurações do iframe (**com Exercicios**)
+- [x] _Aula 02_ - Configurações do iframe (**com Exercicios**)
+- [x] _Aula 03_ - Conteúdo local no iframe (**com Exercicios**)
 
 </details>
 
