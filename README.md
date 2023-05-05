@@ -216,6 +216,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 05_ - Conteúdo estático em iframe
 - [x] _Aula 06_ - Inconvenientes do iframe
 - [x] _Aula 07_ - Tornando iframes mais seguros (**com Exercicios**)
+- [x] _Aula 08_ - Dicas interessantes para iframes
 
 </details>
 
