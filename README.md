@@ -218,6 +218,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 07_ - Tornando iframes mais seguros (**com Exercicios**)
 - [x] _Aula 08_ - Dicas interessantes para iframes
 
+### Capítulo 23
+
+- [x] _Aula 01_ - Projeto Redes Sociais
+
 </details>
 
 **Módulo 04:** _Iniciado_ em 02/05/2023
