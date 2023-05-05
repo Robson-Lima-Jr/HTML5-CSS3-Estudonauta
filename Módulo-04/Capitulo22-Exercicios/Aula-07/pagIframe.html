@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap 22 Aula07: Pagina do Iframe, com JavaScript</title>
+    <style>
+        body {
+            font-family: monospace;
+            background-color: slateblue;
+            color: white;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+
+        a:hover{
+            text-decoration: underline;
+            color: gold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1><a href="#" onclick="clickTest()">Clique em Mim</a></h1>
+    <div id="saida"></div>
+
+    <script>
+        function clickTest() {
+            let res = document.querySelector("div#saida");
+
+            res.innerHTML += '<p>Clicado</p>';
+        }
+    </script>
+</body>
+
+</html>
