@@ -224,6 +224,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Organizando arquivos do projeto (**Desafio 13**)
 - [x] _Aula 03_ - Criando a página principal (**Desafio 13**)
 - [x] _Aula 04_ - Posicionando o conteúdo na tela (**Desafio 13**)
+- [x] _Aula 05_ - Criando os botões de redes sociais (**Desafio 13**)
 
 </details>
 
