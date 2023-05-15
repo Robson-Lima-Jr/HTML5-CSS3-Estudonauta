@@ -220,7 +220,8 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 ### Capítulo 23
 
-- [x] _Aula 01_ - Projeto Redes Sociais
+- [x] _Aula 01_ - Projeto Redes Sociais (**Desafio 13**)
+- [x] _Aula 02_ - Organizando arquivos do projeto (**Desafio 13**)
 
 </details>
 
@@ -250,6 +251,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 - [x] _Desafio 11_ -  Desafio do Astronauta
 - [x] _Desafio 12_ -  Desafio Mini Projeto Cordel - [Link do Site](https://robson-lima-jr.github.io/Projeto-Cordel-Estudonauta/)
+
+### Módulo 0:
+
+- [] _Desafio 13_ -  Desafio das Redes Sociais
 
 </details>
 
