@@ -258,7 +258,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 ### Módulo 0:
 
-- [x] _Desafio 13_ -  Desafio das Redes Sociais
+- [x] _Desafio 13_ -  Desafio das Redes Sociais - [Link do Site](https://robson-lima-jr.github.io/Projeto-das-Redes-Sociais-Estudonauta/)
 
 </details>
 
