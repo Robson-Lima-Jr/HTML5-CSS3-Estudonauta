@@ -230,6 +230,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 ### Capítulo 24
 
 - [x] _Aula 01_ - Criando o primeiro Formulário (**com Exercicios**)
+- [x] _Aula 02_ - Aprimorando Formulários com Label (**com Exercicios**)
 
 </details>
 
