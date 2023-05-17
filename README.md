@@ -227,6 +227,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 05_ - Criando os botões de redes sociais (**Desafio 13**)
 - [x] _Aula 06_ - Criando as páginas de cada rede (**Desafio 13**)
 
+### Capítulo 24
+
+- [x] _Aula 01_ - Criando o primeiro Formulário (**com Exercicios**)
+
 </details>
 
 **Módulo 04:** _Iniciado_ em 02/05/2023
