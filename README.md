@@ -233,7 +233,8 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Aprimorando Formulários com Label (**com Exercicios**)
 - [x] _Aula 03_ - Métodos GET e POST (**com Exercicios**)
 - [x] _Aula 04_ - Atributos para input text e password (**com Exercicios**)
-- [x] _Aula 05_ - Elementos number, month, date e time (**Desafio 13**)
+- [x] _Aula 05_ - Elementos number, month, date e time (**com Exercicios**)
+- [x] _Aula 06_ - Compatibilidade com formulários (**com Exercicios**)
 
 </details>
 
