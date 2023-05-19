@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap 24 Aula 07 - Formulários com telefone e e-mail</title>
+    <style>
+        body {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Exemplo de Formulário</h1>
+    <form action="cadastro.php" method="get" autocomplete="on">
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <p>
+                <label for="idnome">Nome:</label>
+                <input type="text" name="nome" id="idnome" required autocomplete="name" minlength="10" maxlength="40"
+                    placeholder="Seu Nome Completo">
+            </p>
+            <p>
+                <label for="idemail">E-mail:</label>
+                <input type="email" name="email" id="idemail" required placeholder="seu_email@email.com" autocomplete="email">
+            </p>
+            <p>
+                <label for="idtel">Telefone:</label>
+                <input type="tel" name="tel" id="idtel" required autocomplete="tel" placeholder="(xx) xxxx-xxxx" pattern="^\(\d{2}\)\d{4,5}-\d{4}$">
+            </p>
+        </fieldset>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+
+</html>
