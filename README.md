@@ -237,6 +237,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 06_ - Compatibilidade com formulários
 - [x] _Aula 07_ - Formulários com telefone e e-mail (**com Exercicios**)
 - [x] _Aula 08_ - Checkbox e radio (**com Exercicios**)
+- [x] _Aula 09_ - Color, range e file (**com Exercicios**)
 
 </details>
 
