@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap24 Aula09: Color, range e file</title>
+</head>
+
+<body>
+    <h1>Teste de Formulário: Color, range e file</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <p>
+            <label for="idcor">Escolha uma Cor:</label>
+            <input type="color" name="cor" id="idcor" value="#7500EB">
+        </p>
+        <p>
+            <label for="idava">Avalie nosso serviço: </label>
+            <input type="range" name="ava" id="idava" min="0" max="10" value="5">
+        </p>
+        <p>
+            <label for="idarquivo">Escolha uma Imagem:</label>
+            <input type="file" name="arquivo" id="idarquivo">
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+
+</html>
