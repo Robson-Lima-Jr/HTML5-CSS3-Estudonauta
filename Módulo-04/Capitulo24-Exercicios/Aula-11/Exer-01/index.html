@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap:24 Aula:11 - Output em Formulários HTML</title>
+</head>
+
+<body>
+    <h1>Teste de Formulário: Output em Formulários HTML - 1</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <p>
+            <label for="idnum1">Número 1:</label>
+            <input type="number" name="num1" id="idnum1" min="0" max="50" required oninput="idsoma.innerHTML = Number(idnum1.value) + Number(idnum2.value)">
+        </p>
+        <p>
+            <label for="idnum2">Número 2:</label>
+            <input type="number" name="num2" id="idnum2" min="0" max="50" required oninput="idsoma.innerHTML = Number(idnum1.value) + Number(idnum2.value)">
+        </p>
+        <p>
+            <label for="idsoma">Soma dos Valores: </label>
+            <output id="idsoma">0</output>
+        </p>
+        <p>----------------------------------------</p>
+        <p>
+            <label for="idnum3">Número 3:</label>
+            <input type="number" name="num3" id="idnum3" min="0" max="50" required oninput="idmulti.innerHTML = Number(idnum3.value) * Number(idnum4.value)">
+        </p>
+        <p>
+            <label for="idnum4">Número 4:</label>
+            <input type="number" name="num4" id="idnum4" min="0" max="50" required oninput="idmulti.innerHTML = Number(idnum3.value) * Number(idnum4.value)">
+        </p>
+        <p>
+            <label for="idmulti">Multiplicação dos Valores: </label>
+            <output id="idmulti">0</output>
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+
+</html>
