@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cap 24 Aula:10 - Select, datalist e textarea</title>
+</head>
+
+<body>
+    <h1>Formulário: Select, datalist e textarea</h1>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <p>
+            <label for="idestado">Estado: </label>
+            <select name="estado" id="idestado">
+                <optgroup label="Região Sudeste">
+                    <option value="ES">Espirito Santo</option>
+                    <option value="MG">Minas Gerais</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="SP" selected>São Paulo</option>
+                </optgroup>
+                <optgroup label="Região Norte">
+                    <option value="AC">Acre</option>
+                    <option value="AM">Amazonas</option>
+                    <option value="AP">Amapá</option>
+                    <option value="PA">Pará</option>
+                    <option value="RO">Rondonia</option>
+                    <option value="RR">Roraima</option>
+                    <option value="TO">Tocantins</option>
+                </optgroup>
+            </select>
+        </p>
+        <p>
+            <label for="idprof">Profissão: </label>
+            <input type="text" name="prof" id="idprof" list="listProf">
+            <datalist id="listProf">
+                <option>Programador</option>
+                <option>Médico</option>
+                <option>Cozinheiro</option>
+                <option>Engenheiro</option>
+            </datalist>
+        </p>
+        <p>
+            <label for="idtxtarea">Envie suas dúvidas:</label> <br>
+            <textarea name="txtarea" id="idtxtarea" cols="30" rows="10"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+
+</html>
