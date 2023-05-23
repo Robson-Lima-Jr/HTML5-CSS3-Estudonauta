@@ -238,7 +238,8 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 07_ - Formulários com telefone e e-mail (**com Exercicios**)
 - [x] _Aula 08_ - Checkbox e radio (**com Exercicios**)
 - [x] _Aula 09_ - Color, range e file (**com Exercicios**)
-- [x] _Aula 10_ - Select, datalist e textarea(**com Exercicios**)
+- [x] _Aula 10_ - Select, datalist e textarea (**com Exercicios**)
+- [x] _Aula 11_ - Output em Formulários HTML (**com Exercicios**)
 
 </details>
 
