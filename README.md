@@ -241,6 +241,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 10_ - Select, datalist e textarea (**com Exercicios**)
 - [x] _Aula 11_ - Output em Formulários HTML (**com Exercicios**)
 
+### Capítulo 25
+  
+- [x] _Aula 01_ - O que são Media Queries?
+
 </details>
 
 **Módulo 04:** _Iniciado_ em 02/05/2023
