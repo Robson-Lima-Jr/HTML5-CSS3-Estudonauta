@@ -246,6 +246,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 01_ - O que são Media Queries?
 - [x] _Aula 02_ - Preparando um site para impressão (**com Exercicios**)
 - [x] _Aula 03_ - Múltiplas Media Features (**com Exercicios**)
+- [x] _Aula 04_ - Seguindo a orientação do dispositivo (**com Exercicios**)
 
 </details>
 

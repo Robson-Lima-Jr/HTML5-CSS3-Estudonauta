@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/*Style para configurações de orintação de pé do dispositivo (portrait)*/
+
+body {
+    background-image: url(../images/cev-portrait.jpg);
+    background-position: center bottom;
+}
