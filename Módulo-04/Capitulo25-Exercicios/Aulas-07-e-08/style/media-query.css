@@ -1,3 +1,124 @@
 @charset "UTF-8";
 
 /* CSS para demais telas */
+
+/* Telas entre 768px e 992px */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+        background-image: url(../images/back-tablet.jpg);
+    }
+
+    #phone {
+        display: none;
+    }
+
+    #printer {
+        display: none;
+    }
+
+    #tablet {
+        display: block;
+    }
+
+    #pc {
+        display: none;
+    }
+
+    #tv {
+        display: none;
+    }
+}
+
+/* Telas entre 992px e 1200px */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    body {
+        background-image: url(../images/back-pc.jpg);
+    }
+
+    #phone {
+        display: none;
+    }
+
+    #printer {
+        display: none;
+    }
+
+    #tablet {
+        display: none;
+    }
+
+    #pc {
+        display: block;
+    }
+
+    #tv {
+        display: none;
+    }
+}
+
+/* Telas com mais de 1200px */
+@media screen and (min-width: 1200px) {
+    body {
+        background-image: url(../images/back-tv.jpg);
+    }
+
+    #phone {
+        display: none;
+    }
+
+    #printer {
+        display: none;
+    }
+
+    #tablet {
+        display: none;
+    }
+
+    #pc {
+        display: none;
+    }
+
+    #tv {
+        display: block;
+    }
+}
+
+/* Configurar página de impressão */
+@media print {
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        text-shadow: none;
+    }
+
+    main {
+        width: 60vw;
+        border: 3px solid black;
+    }
+
+    main::after {
+        content: "Esse site foi desenvolvido no exercicio do capitulo 25, do Curso em Video/Estudonauta e Executado por Robson Junior";
+        text-decoration: underline;
+        font-style: italic;
+    }
+
+    #phone {
+        display: none;
+    }
+
+    #printer {
+        display: block;
+    }
+
+    #tablet {
+        display: none;
+    }
+
+    #pc {
+        display: none;
+    }
+
+    #tv {
+        display: none;
+    }
+}
