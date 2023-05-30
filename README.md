@@ -248,6 +248,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 03_ - Múltiplas Media Features (**com Exercicios**)
 - [x] _Aula 04_ - Seguindo a orientação do dispositivo (**com Exercicios**)
 - [x] _Aula 05_ - Seguindo a orientação do dispositivo - Parte 02(**com Exercicios**)
+- [x] _Aula 06_ - Mobile First
 
 </details>
 
