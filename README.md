@@ -252,6 +252,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 07_ - Iniciando um site mobile first (**com Exercicios**)
 - [x] _Aula 08_ - Device breakpoints (**com Exercicios**)
 - [x] _Aula 09_ - Exercício menu responsivo (**com Exercicios**)
+- [x] _Aula 10_ - Configurando layout do projeto (**com Exercicios**)
 
 </details>
 
