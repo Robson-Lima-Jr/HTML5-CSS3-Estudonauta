@@ -24,7 +24,7 @@ header>h1 {
 }
 
 #homeIcon {
-    display: block;
+    display: inline;
     color: rgb(26, 226, 92);
     font-size: 2em;
 }
