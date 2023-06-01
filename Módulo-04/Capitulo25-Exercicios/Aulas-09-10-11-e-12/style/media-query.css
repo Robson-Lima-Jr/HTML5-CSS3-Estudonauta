@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    #menuBurguer {
+        display: none;
+    }
+
+    header > menu > ul {
+        background-color: rgb(10, 7, 26);
+    }
+
+    header > menu > ul > li {
+        display: inline-block;
+        background-color: rgb(10, 7, 26);
+        border-top: none;
+    }
+
+    header > menu > ul > li > a {
+        transition: 0.4s;
+        border-radius: 5px;
+        margin: 2px 0px;
+    }
+
+    #firstMenu {
+        margin-left: 50px;
+    }
+
+    main {
+        width: 768px;
+    }
+
+}

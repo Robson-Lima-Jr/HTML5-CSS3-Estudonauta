@@ -254,6 +254,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 09_ - Exercício menu responsivo (**com Exercicios**)
 - [x] _Aula 10_ - Configurando layout do projeto (**com Exercicios**)
 - [x] _Aula 11_ - Criando um menu hambúrguer (**com Exercicios**)
+- [x] _Aula 12_ - Media queries para outros dispositivos (**com Exercicios**)
 
 </details>
 
