@@ -256,6 +256,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 11_ - Criando um menu hambúrguer (**com Exercicios**)
 - [x] _Aula 12_ - Media queries para outros dispositivos (**com Exercicios**)
 
+### Capítulo 26
+  
+- [x] _Aula 01_ - Inicio do projeto tela de login (**Desafio 15**)
+  
 </details>
 
 **Módulo 04:** _Iniciado_ em 02/05/2023
@@ -285,9 +289,10 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Desafio 11_ -  Desafio do Astronauta
 - [x] _Desafio 12_ -  Desafio Mini Projeto Cordel - [Link do Site](https://robson-lima-jr.github.io/Projeto-Cordel-Estudonauta/)
 
-### Módulo 0:
+### Módulo 04:
 
 - [x] _Desafio 13_ -  Desafio das Redes Sociais - [Link do Site](https://robson-lima-jr.github.io/Projeto-das-Redes-Sociais-Estudonauta/)
+- [x] _Desafio 15_ - Desafio Projeto Login - [Link do Site](https://robson-lima-jr.github.io/projeto-login-estudonauta/)
 
 </details>
 
