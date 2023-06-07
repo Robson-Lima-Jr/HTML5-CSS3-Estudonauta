@@ -262,6 +262,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 02_ - Versão mobile first da tela de login (**Desafio 15**)
 - [x] _Aula 03_ - Outras media queries para login (**Desafio 15**)
 - [x] _Aula 04_ - Criando o formulário de login (**Desafio 15**)
+- [x] _Aula 05_ - Aplicando estilo ao formulário de login (**Desafio 15**)
   
 </details>
 
