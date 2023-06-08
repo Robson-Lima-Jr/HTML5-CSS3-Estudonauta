@@ -201,7 +201,7 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 
 </details>
 
-**Módulo 03:** _Iniciado_ em 04/04/2023 /_Concluído_ em 24/04/2023 :ballot_box_with_check:
+**Módulo 03:** _Iniciado_ em 04/04/2023 / _Concluído_ em 24/04/2023 :ballot_box_with_check:
 
 <details>
 
@@ -263,11 +263,11 @@ Curso de HTML5 E CSS 3, dividido em **5 módulos**, cada módulo com seu certifi
 - [x] _Aula 03_ - Outras media queries para login (**Desafio 15**)
 - [x] _Aula 04_ - Criando o formulário de login (**Desafio 15**)
 - [x] _Aula 05_ - Aplicando estilo ao formulário de login (**Desafio 15**)
-- [x] _Aula 05_ - Finalizando projeto tela de login (**Desafio 15**)
+- [x] _Aula 06_ - Finalizando projeto tela de login (**Desafio 15**)
   
 </details>
 
-**Módulo 04:** _Iniciado_ em 02/05/2023
+**Módulo 04:** _Iniciado_ em 02/05/2023 / _Concluído_ em 08/06/2023 :ballot_box_with_check:
 
 <details>
 
