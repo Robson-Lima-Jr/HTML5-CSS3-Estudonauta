@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 15: Projeto Login</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/medias.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <section id="telaLogin">
+            <div id="imagem">
+                <!-- Imagem adicionada pela CSS -->
+            </div>
+            <div id="formulario">
+                <h1>Login</h1>
+                <p>Seja Bem-Vindo(a) de volta, digite seu E-mail e senha para fazer seu login</p>
+                <form action="" method="post" autocomplete="on">
+                    <div class="areaForm">
+                        <label for="idmail"> <span class="material-icons">
+                            account_circle
+                        </span></label>
+                        <input type="email" name="mail" id="idmail" required placeholder="Digite seu E-mail" autocomplete="on" maxlength="30">
+                    </div>
+                    <div class="areaForm">
+                        <label for="idpassword"> <span class="material-icons">
+                            key
+                        </span></label>
+                        <input type="password" name="password" id="idpassword" required placeholder="Digite sua Senha" minlength="8" maxlength="20">
+                    </div>
+                    <input type="submit" value="Entrar" id="submit">
+                    <a href="forget.html">Esqueci a Senha <span class="material-icons" id="btnForget">
+                        mail
+                    </span></a>
+                </form>
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>
